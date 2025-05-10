@@ -31,7 +31,7 @@ We really like `uv` and recommend using it as your package manager. But feel fre
 
 Let's first clone the repository:
 ```bash
-git clone https://github.com/huggingface/nanoVLM.git
+git clone https://github.com/charbull/nanoVLM.git
 cd nanoVLM
 ```
 
